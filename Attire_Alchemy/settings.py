@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-j16jc#6^4+u^i9d^cho%y=5-m%l@#mei0+uzi6%h)hs@edt7e8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['attire-alchemy333.onrender.com
+ALLOWED_HOSTS = ['attire-alchemy33.onrender.com
 
 ', '*']
 
