@@ -7,7 +7,7 @@ Super User
 
 Buyer Account
 # Email: nusyba.mehek@gmail.com
-# Password: mehrab1234
+# Password: mehrab123
 # First name: Nusyba
 # Last name: Mehek
 # Phone: 01926631819
